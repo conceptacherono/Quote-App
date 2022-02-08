@@ -1,8 +1,40 @@
 # QuoteApp
+QuoteApp is an application that allows users to read quotes, post self qoutes other author's quotes citing their owners.
+## Design
+![Quote APP Generator](./src/assets/images/QuoteAPP_homescreen.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+<!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0. -->
 
-## Development server
+## Installation/Setup Instructions
+To clone this repository, open terminal the copy and run this code
+
+* git clone https://github.com/conceptacherono/Quote-App.git
+
+* cd Quote-app
+* code .
+## Live Demo 
+
+[QuoteApp](https://conceptacherono.github.io/Quote-App/)
+
+
+## BDD
+* Objectives
+1. Users can view quotes published on the app.
+
+2. Users can publish quotes on the app.
+
+3. Users can upvote or downvote published quotes for ratings.
+
+## Developed with;
+* Angular Framework for component binding.
+* Bootstrap library for styling and resposiveness.
+* Typescript for behaviour and functionality.
+## Author Infomation
+
+Author name: Concepta Cherono
+
+Email: [Gmail](https://mail.google.com/mail/u/0/#inbox)
+<!-- ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -24,4 +56,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. -->
