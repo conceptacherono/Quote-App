@@ -1,0 +1,9 @@
+.quote-component{
+    background-color:teal ;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    list-style: none;
+}
